@@ -1,4 +1,8 @@
 1
 2
 3
+<<<<<<< HEAD
 left5
+=======
+right5
+>>>>>>> fb098f29e07b655bba1ddc28d0edcf63d0f6b311
